@@ -2,10 +2,15 @@
         max-width: 800px;
         margin-top: 50px;
         border-radius: 5px;
+        /* background-color: rgb(138, 181, 223, 0.6); */
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
         -ms-border-radius: 5px;
         -o-border-radius: 5px;
+}
+
+.jumbotron {
+        background-color: rgb(138, 181, 223, 0.6);
 }
 
 .jumbotron img {
@@ -47,7 +52,7 @@ p {
         width: 70%;
         padding-top: 15px;
         padding-bottom: 15px;
-        background-color: lightgray;
+        background-color: rgb(138, 181, 223, 0.6);
 }
 
 .button {
