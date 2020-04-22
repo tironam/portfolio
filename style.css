@@ -64,12 +64,16 @@ p {
 .portfolio {
         width: 75%;
         background-color: rgb(138, 181, 223, 0.6);
-        height: 300px;
+        height: 50%;
 }
 
 .btn {
-        margin-top: 20px;
+        margin-top: 10px;
         margin-left: 10px;
         margin-bottom: 10px;
         height: auto;
+}
+
+.img-thumbnail {
+        margin-top: 10px;
 }
