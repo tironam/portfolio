@@ -1,6 +1,12 @@
 .container {
         max-width: 800px;
         margin-top: 50px;
+        background-color: lightgray;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
 }
 
 .jumbotron img {
@@ -16,10 +22,9 @@
 
 .main {}
 
-body {
-        background: rgb(248, 247, 255);
-        background: linear-gradient(0deg, rgba(248, 247, 255, 1) 0%, rgba(98, 136, 214, 1) 52%, rgba(137, 200, 252, 1) 100%);
-}
+/* body {
+        background-image: linear-gradient (to right, cyan, white);
+} */
 
 h1 {
         text-align: center;
@@ -37,6 +42,12 @@ p {
         -ms-border-radius: 25px;
         -o-border-radius: 25px;
         width: 60%;
+}
+
+.contact {
+        width: 60%;
+        padding-top:15px;
+        padding-bottom: 15px;
 }
 
 .footer-copyright {
