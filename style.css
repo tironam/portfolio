@@ -17,7 +17,8 @@
 .main {}
 
 body {
-        background-color: lightcyan;
+        background: rgb(248, 247, 255);
+        background: linear-gradient(0deg, rgba(248, 247, 255, 1) 0%, rgba(98, 136, 214, 1) 52%, rgba(137, 200, 252, 1) 100%);
 }
 
 h1 {
