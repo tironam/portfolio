@@ -45,9 +45,13 @@ p {
 }
 
 .contact {
-        width: 60%;
+        width: 70%;
         padding-top:15px;
         padding-bottom: 15px;
+}
+
+.button {
+        margin-top: 8px;
 }
 
 .footer-copyright {
