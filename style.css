@@ -70,12 +70,13 @@ p {
 }
 
 .btn {
-        margin-top: 10px;
+        margin-top: 20px;
         margin-left: 10px;
         margin-bottom: 10px;
+        height: auto;
 }
 
-.btn1 {
+/* .btn1 {
         margin-top: 50px;
         margin-left: 60px;
         margin-bottom: 10px;
@@ -96,5 +97,5 @@ p {
 .btn4 {
         margin-top: 60px;
         margin-right: 60px;
-        margin-bottom: 10px;
-}
+        margin-bottom: 10px; */
+/* } */
