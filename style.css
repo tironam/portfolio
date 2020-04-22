@@ -37,3 +37,7 @@ p {
         -o-border-radius: 25px;
         width: 60%;
 }
+
+.footer-copyright {
+        color: white;
+}
