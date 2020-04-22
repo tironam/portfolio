@@ -39,7 +39,7 @@ p {
         margin-top: 30px;
 }
 
-.img-fluid {
+.me {
         border-radius: 25px;
         -webkit-border-radius: 25px;
         -moz-border-radius: 25px;
@@ -61,4 +61,40 @@ p {
 
 .footer-copyright {
         color: white;
+}
+
+.portfolio {
+        width: 75%;
+        background-color: rgb(138, 181, 223, 0.6);
+        height: 300px;
+}
+
+.btn {
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+}
+
+.btn1 {
+        margin-top: 50px;
+        margin-left: 60px;
+        margin-bottom: 10px;
+}
+
+.btn2 {
+        margin-top: 50px;
+        margin-right: 60px;
+        margin-bottom: 10px;
+}
+
+.btn3 {
+        margin-top: 60px;
+        margin-left: 60px;
+        margin-bottom: 10px;
+}
+
+.btn4 {
+        margin-top: 60px;
+        margin-right: 60px;
+        margin-bottom: 10px;
 }
