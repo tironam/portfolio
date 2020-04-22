@@ -24,11 +24,9 @@
         width: 100%;
 }
 
-.main {}
-
-/* body {
-        background-image: linear-gradient (to right, cyan, white);
-} */
+body {
+        background-color: #1f3d7a;
+}
 
 h1 {
         text-align: center;
@@ -66,36 +64,16 @@ p {
 .portfolio {
         width: 75%;
         background-color: rgb(138, 181, 223, 0.6);
-        height: 300px;
+        height: 50%;
 }
 
 .btn {
-        margin-top: 20px;
+        margin-top: 10px;
         margin-left: 10px;
         margin-bottom: 10px;
         height: auto;
 }
 
-/* .btn1 {
-        margin-top: 50px;
-        margin-left: 60px;
-        margin-bottom: 10px;
+.img-thumbnail {
+        margin-top: 10px;
 }
-
-.btn2 {
-        margin-top: 50px;
-        margin-right: 60px;
-        margin-bottom: 10px;
-}
-
-.btn3 {
-        margin-top: 60px;
-        margin-left: 60px;
-        margin-bottom: 10px;
-}
-
-.btn4 {
-        margin-top: 60px;
-        margin-right: 60px;
-        margin-bottom: 10px; */
-/* } */
