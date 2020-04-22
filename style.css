@@ -1,7 +1,6 @@
 .container {
         max-width: 800px;
         margin-top: 50px;
-        background-color: lightgray;
         border-radius: 5px;
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
@@ -46,8 +45,9 @@ p {
 
 .contact {
         width: 70%;
-        padding-top:15px;
+        padding-top: 15px;
         padding-bottom: 15px;
+        background-color: lightgray;
 }
 
 .button {
