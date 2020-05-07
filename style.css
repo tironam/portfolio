@@ -1,23 +1,22 @@
-.container {
-        max-width: 800px;
+.container-fluid {
+        max-width: 600px;
         margin-top: 50px;
         border-radius: 5px;
-        /* background-color: rgb(138, 181, 223, 0.6); */
+        background-color: rgb(138, 181, 223, 0.6);
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
         -ms-border-radius: 5px;
         -o-border-radius: 5px;
+        height: 750px;
 }
 
-.jumbotron {
-        background-color: rgb(138, 181, 223, 0.6);
-}
-
-.jumbotron img {
-        /* text-align: center; */
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+.contact {
+        margin-top: 50px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
 }
 
 .one {
@@ -43,7 +42,6 @@ p {
         -moz-border-radius: 25px;
         -ms-border-radius: 25px;
         -o-border-radius: 25px;
-        width: 60%;
 }
 
 .contact {
@@ -76,4 +74,14 @@ p {
 
 .img-thumbnail {
         margin-top: 10px;
+}
+
+.btn5 {
+        margin: 10px 10px 10px 10px;
+}
+
+.covidThumb {
+        width: 50%;
+        height: 30%;
+        margin: 15px auto 10px auto;
 }
