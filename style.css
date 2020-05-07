@@ -2,11 +2,12 @@
         max-width: 800px;
         margin-top: 50px;
         border-radius: 5px;
-        /* background-color: rgb(138, 181, 223, 0.6); */
+        background-color: rgb(138, 181, 223, 0.6);
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
         -ms-border-radius: 5px;
         -o-border-radius: 5px;
+        height: 60%;
 }
 
 .jumbotron {
@@ -76,4 +77,14 @@ p {
 
 .img-thumbnail {
         margin-top: 10px;
+}
+
+.btn5 {
+        margin: 10px auto 10px auto;;
+}
+
+.covidThumb {
+        width: 50%;
+        height: 30%;
+        margin: 15px auto 10px auto;
 }
