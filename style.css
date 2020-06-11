@@ -73,14 +73,24 @@ p {
 }
 
 .img-thumbnail {
-        margin-top: 10px;
+        margin-top: auto;
 }
 
-.btn5 {
-        margin: 10px 10px 10px 10px;
+.btn5, .btn6 {
+        margin: 10px auto 10px auto;
 }
 
-.covidThumb {
+/* .btn6 {
+        margin: auto;
+} */
+
+.covidImg {
+        width: 50%;
+        height: 30%;
+        margin: 15px auto 10px auto;
+}
+
+.listivityImg {
         width: 50%;
         height: 30%;
         margin: 15px auto 10px auto;
